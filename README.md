@@ -2,7 +2,7 @@
 ---
 # Build an Analytics API using FastAPI + Time-series postgres
 ---
-Ouw you data pipeline!
+Own your data pipeline!
 Start by building an analytics API service with Python, FastAPI, and Time-series Postgres with TImescaleDB
 ---
 # Getting Started
